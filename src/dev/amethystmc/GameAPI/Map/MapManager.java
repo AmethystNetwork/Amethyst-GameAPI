@@ -1,4 +1,4 @@
-package dev.amethystmc.GameAPI.Maps;
+package dev.amethystmc.GameAPI.Map;
 
 import dev.amethystmc.GameAPI.Module;
 import org.bukkit.plugin.java.JavaPlugin;

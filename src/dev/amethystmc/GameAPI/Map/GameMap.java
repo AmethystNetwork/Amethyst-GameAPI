@@ -1,4 +1,4 @@
-package dev.amethystmc.GameAPI.Maps;
+package dev.amethystmc.GameAPI.Map;
 
 /**
  * Created by Ben on 10/12/2016.

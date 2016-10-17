@@ -1,4 +1,4 @@
-package dev.amethystmc.GameAPI.Preventions;
+package dev.amethystmc.GameAPI.Prevention;
 
 /**
  * Created by Ben on 10/12/2016.
